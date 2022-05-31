@@ -1,79 +1,53 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: Obtaining affective response is a key step in building empathetic
+  dialogue systems. This task has been studied a lot in generation-based
+  chatbots, but the related research in retrieval-based chatbots is still in the
+  early stage. Existing works in retrieval-based chatbots are based on
+  Retrieve-and-Rerank framework, which have a common problem of satisfying
+  affect label at the expense of response quality. To address this problem, we
+  propose a simple and effective Retrieve-Discriminate-Rewrite framework. The
+  framework replaces the reranking mechanism with a new discriminate-and-rewrite
+  mechanism, which predicts the affect label of the retrieved high-quality
+  response via discrimination module and further rewrites the affect unsatisfied
+  response via rewriting module. This can not only guarantee the quality of the
+  response, but also satisfy the given affect label. In addition, another
+  challenge for this line of research is the lack of an off-the-shelf affective
+  response dataset. To address this problem and test our proposed framework, we
+  annotate a Sentimental Douban Conversation Corpus based on the original Douban
+  Conversation Corpus. Experimental results show that our proposed framework is
+  effective and outperforms competitive baselines.
+slides: ""
+url_pdf: ""
+publication_types:
+  - "1"
 authors:
-  - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+  - Xin Lu
+  - Yijian Tian
+  - Yanyan Zhao
+  - and Bing Qin.
+author_notes: []
+publication: "Findings of the Association for Computational Linguistics: EMNLP 2021"
+summary: ""
+url_dataset: ""
+url_project: ""
+publication_short: EMNLP-Findings 2021
+url_source: ""
+url_video: ""
+title: "Retrieve, Discriminate and Rewrite: A Simple and Effective Framework for
+  Obtaining Affective Response in Retrieval-Based Chatbots"
+doi: 10.18653/v1/2021.findings-emnlp.168
+featured: false
 tags: []
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2022-05-31T17:36:20.748Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
