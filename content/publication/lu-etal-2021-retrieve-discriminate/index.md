@@ -54,4 +54,6 @@ doi: 10.18653/v1/2021.findings-emnlp.168
 links:
 - name: URL
   url: https://aclanthology.org/2021.findings-emnlp.168
+
+url_pdf: https://aclanthology.org/2021.findings-emnlp.168.pdf
 ---

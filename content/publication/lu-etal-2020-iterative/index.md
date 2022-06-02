@@ -52,4 +52,6 @@ doi: 10.18653/v1/2020.coling-main.360
 links:
 - name: URL
   url: https://aclanthology.org/2020.coling-main.360
+
+url_pdf: https://aclanthology.org/2020.coling-main.360.pdf
 ---

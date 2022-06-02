@@ -30,17 +30,17 @@ organizations:
   #   url: http://www.hit.edu.cn/
 education:
   courses:
-    - course: Master, School of Computer Science and Technology
+    - course: M.S., School of Computer Science and Technology
       institution: Harbin Institute of Technology
-      year: 2020.09-2022.08
-    - course: Bachelor, School of Computer Science and Technology
+      year: Sept 2020 - Aug 2022
+    - course: B.E., School of Computer Science and Technology
       institution: Harbin Institute of Technology
-      year: 2016.09-2020.08
+      year: Sept 2016 - Aug 2020
 email: ""
 superuser: true
 highlight_name: true
 ---
-I am now a master student, fortunately supervised by Prof. [Bing Qin](http://ir.hit.edu.cn/~qinb/) and Dr. [Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/), in [Research Center for Social Computing and Information Retrieval (SCIR)](http://ir.hit.edu.cn/), at [Harbin Institute of Technology (HIT, China)](http://www.hit.edu.cn/).
+I am now a master student, supervised by Prof. [Bing Qin](http://ir.hit.edu.cn/~qinb/) and Dr. [Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/), in [Research Center for Social Computing and Information Retrieval (SCIR)](http://ir.hit.edu.cn/), at [Harbin Institute of Technology (HIT, China)](http://www.hit.edu.cn/).
 
 My research interests include natural language processing, sentiment analysis, emotional chatbot, public opinion analysis. 
 
