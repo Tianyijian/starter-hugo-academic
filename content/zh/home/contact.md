@@ -28,12 +28,12 @@ content:
   email: yjtian@ir.hit.edu.cn
   # phone: 888 888 88 88
   address:
-    street: Technology Innovation Building, Harbin Institute of Technology
-    city: Harbin
-    region: Heilongjiang
-    postcode: '150001'
-    country: China
-    country_code: CN
+    street: 
+    city: 
+    region: 哈尔滨工业大学科技创新大厦
+    postcode:
+    country:
+    country_code:
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'

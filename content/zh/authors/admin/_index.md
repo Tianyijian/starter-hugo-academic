@@ -1,13 +1,13 @@
 ---
-title: Yijian Tian
-role: Master Student
+title: 田一间
+role: 工学硕士
 avatar_filename: avatar.jpg
 bio: My research interests include natural language processing, sentiment analysis.
 interests:
-  - Natural Language Processing
-  - Sentiment Analysis
-  - Emotional Chatbot
-  - Public Opinion Analysis
+  - 自然语言处理
+  - 情感分析
+  - 情感对话
+  - 舆情分析
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,7 +22,7 @@ social:
     icon_pack: fab
     link: https://github.com/Tianyijian
 organizations:
-  - name: Research Center for Social Computing and Information Retrieval
+  - name: 社会计算与信息检索研究中心
     url: http://ir.hit.edu.cn/
   # - name: School of Computer Science and Technology
   #   url: http://www.cs.hit.edu.cn/
@@ -30,20 +30,21 @@ organizations:
   #   url: http://www.hit.edu.cn/
 education:
   courses:
-    - course: M.S., School of Computer Science and Technology
-      institution: Harbin Institute of Technology
-      year: Sept 2020 - Aug 2022
-    - course: B.E., School of Computer Science and Technology
-      institution: Harbin Institute of Technology
-      year: Sept 2016 - Aug 2020
+    - course: 工学硕士, 计算机科学与技术专业
+      institution: 哈尔滨工业大学
+      year: 2020.09 - 2022.08
+    - course: 工学学士, 计算机科学与技术专业
+      institution: 哈尔滨工业大学
+      year: 2016.09 - 2020.08
 email: ""
 superuser: true
 highlight_name: true
 ---
-I am now a master student, supervised by Prof. [Bing Qin](http://ir.hit.edu.cn/~qinb/) and Dr. [Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/), in [Research Center for Social Computing and Information Retrieval (SCIR)](http://ir.hit.edu.cn/), at [Harbin Institute of Technology (HIT, China)](http://www.hit.edu.cn/).
+我是一名硕士研究生，导师是[秦兵教授](http://ir.hit.edu.cn/~qinb/)和[赵妍妍副教授](http://ir.hit.edu.cn/~yanyan/)。我目前就读于[哈尔滨工业大学（HIT）](http://www.hit.edu.cn/)，[计算学部](http://cs.hit.edu.cn/)，[社会计算与信息检索研究中心（SCIR）](http://ir.hit.edu.cn/)。
 
-My research interests include natural language processing, sentiment analysis, emotional chatbot, public opinion analysis. 
+我本科毕业于哈尔滨工业大学计算机科学与技术学院，获得工学学士学位。
 
+我的研究兴趣包括自然语言处理，情感分析，情感对话以及舆情分析。
 <!-- I obtained B.S. degree in School of Computer Science and Technology from HIT in June 2020. -->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
