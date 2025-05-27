@@ -40,7 +40,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a master student, supervised by Prof. [Bing Qin](http://ir.hit.edu.cn/~qinb/) and Prof. [Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/), in [Research Center for Social Computing and Interactive Robotics (SCIR)](http://ir.hit.edu.cn/), at [Harbin Institute of Technology (HIT, China)](http://www.hit.edu.cn/).
+I am a master student, supervised by Prof. [Bing Qin](https://homepage.hit.edu.cn/qinbing) and Prof. [Yanyan Zhao](https://homepage.hit.edu.cn/yanyan), in [Research Center for Social Computing and Interactive Robotics (SCIR)](http://ir.hit.edu.cn/), at [Harbin Institute of Technology (HIT, China)](http://www.hit.edu.cn/).
 
 I received my undergraduate degree on Computer Science and Technology from Harbin Institute of Technology (HIT, China).
 
