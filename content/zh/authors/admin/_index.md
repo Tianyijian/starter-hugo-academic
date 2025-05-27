@@ -40,7 +40,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-我是一名硕士研究生，导师是[秦兵教授](http://ir.hit.edu.cn/~qinb/)和[赵妍妍副教授](http://ir.hit.edu.cn/~yanyan/)，毕业于[哈尔滨工业大学（HIT）](http://www.hit.edu.cn/)，[计算学部](http://cs.hit.edu.cn/)，[社会计算与交互机器人研究中心（SCIR）](http://ir.hit.edu.cn/)，获得工学硕士学位。
+我是一名硕士研究生，导师是[秦兵教授](http://ir.hit.edu.cn/~qinb/)和[赵妍妍教授](http://ir.hit.edu.cn/~yanyan/)，毕业于[哈尔滨工业大学（HIT）](http://www.hit.edu.cn/)，[计算学部](http://cs.hit.edu.cn/)，[社会计算与交互机器人研究中心（SCIR）](http://ir.hit.edu.cn/)，获得工学硕士学位。
 
 我本科毕业于哈尔滨工业大学计算机科学与技术学院，获得工学学士学位。
 
