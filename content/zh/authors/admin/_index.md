@@ -2,7 +2,7 @@
 title: 田一间
 role: 工学硕士
 avatar_filename: avatar.jpg
-bio: My research interests include natural language processing, sentiment analysis.
+bio: 我的研究兴趣包括自然语言处理，情感分析。
 interests:
   - 自然语言处理
   - 情感分析
@@ -22,7 +22,7 @@ social:
     icon_pack: fab
     link: https://github.com/Tianyijian
 organizations:
-  - name: 社会计算与信息检索研究中心
+  - name: 社会计算与交互机器人研究中心
     url: http://ir.hit.edu.cn/
   # - name: School of Computer Science and Technology
   #   url: http://www.cs.hit.edu.cn/

@@ -22,7 +22,7 @@ social:
     icon_pack: fab
     link: https://github.com/Tianyijian
 organizations:
-  - name: Research Center for Social Computing and Information Retrieval
+  - name: Research Center for Social Computing and Interactive Robotics
     url: http://ir.hit.edu.cn/
   # - name: School of Computer Science and Technology
   #   url: http://www.cs.hit.edu.cn/
@@ -42,7 +42,7 @@ highlight_name: true
 ---
 I am a master student, supervised by Prof. [Bing Qin](http://ir.hit.edu.cn/~qinb/) and Prof. [Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/), in [Research Center for Social Computing and Interactive Robotics (SCIR)](http://ir.hit.edu.cn/), at [Harbin Institute of Technology (HIT, China)](http://www.hit.edu.cn/).
 
-I received my undergraduate degree on Computer Science and Technology from [Harbin Institute of Technology (HIT, China)](http://www.hit.edu.cn/).
+I received my undergraduate degree on Computer Science and Technology from Harbin Institute of Technology (HIT, China).
 
 My research interests include natural language processing, sentiment analysis, emotional chatbot, public opinion analysis. 
 
