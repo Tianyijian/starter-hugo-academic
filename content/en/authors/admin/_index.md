@@ -40,7 +40,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am now a master student, supervised by Prof. [Bing Qin](http://ir.hit.edu.cn/~qinb/) and Dr. [Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/), in [Research Center for Social Computing and Information Retrieval (SCIR)](http://ir.hit.edu.cn/), at [Harbin Institute of Technology (HIT, China)](http://www.hit.edu.cn/).
+I am a master student, supervised by Prof. [Bing Qin](http://ir.hit.edu.cn/~qinb/) and Dr. [Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/), in [Research Center for Social Computing and Interactive Robotics (SCIR)](http://ir.hit.edu.cn/), at [Harbin Institute of Technology (HIT, China)](http://www.hit.edu.cn/).
 
 My research interests include natural language processing, sentiment analysis, emotional chatbot, public opinion analysis. 
 

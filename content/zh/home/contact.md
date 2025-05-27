@@ -25,15 +25,17 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: yjtian@ir.hit.edu.cn
+  email: ethantian0201@gmail.com
   # phone: 888 888 88 88
-  address:
-    street: 
-    city: 
-    region: 哈尔滨工业大学科技创新大厦
-    postcode:
-    country:
-    country_code:
+
+  # address:
+  #   street: 
+  #   city: 
+  #   region: 哈尔滨工业大学科技创新大厦
+  #   postcode:
+  #   country:
+  #   country_code:
+
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
