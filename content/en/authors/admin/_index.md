@@ -18,9 +18,9 @@ social:
   - icon: semantic-scholar
     icon_pack: ai
     link: https://www.semanticscholar.org/author/Yijian-Tian/2029653096
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Tianyijian
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/Tianyijian
 organizations:
   - name: Research Center for Social Computing and Interactive Robotics
     url: http://ir.hit.edu.cn/
